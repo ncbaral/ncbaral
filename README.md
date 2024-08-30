@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am a Senior QA Engineer, working in London, United Kingdom.
+
+My experience ...
+QA, Product, web, mobile, Team management and coaching
+
+My technical skills ...
+Selenium Java webdriverIO Appium IOS Cypress
 <!--
 **ncbaral/ncbaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
