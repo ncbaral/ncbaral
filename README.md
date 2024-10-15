@@ -6,7 +6,7 @@ My experience ...
 QA, Product, web, mobile, Team management and coaching
 
 My technical skills ...
-Selenium Java webdriverIO Appium IOS Cypress
+Selenium Java webdriverIO Appium iOS Cypress
 <!--
 **ncbaral/ncbaral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
